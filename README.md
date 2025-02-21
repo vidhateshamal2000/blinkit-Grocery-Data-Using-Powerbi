@@ -32,5 +32,7 @@ This project enhanced my skills in **Power BI, data visualization, and business 
 
 
 
-   git clone /https://github.com/vidhateshamal2000/blinkit-Grocery-Data-Using-Powerbi
-   https://app.powerbi.com/groups/me/reports/d7d03753-a73b-4f0f-aebe-b1b0e35c81dc/b000e693509c50c2236b?experience=power-bi
+  - git clone /https://github.com/vidhateshamal2000/blinkit-Grocery-Data-Using-Powerbi
+
+   
+  - https://app.powerbi.com/groups/me/reports/d7d03753-a73b-4f0f-aebe-b1b0e35c81dc/b000e693509c50c2236b?experience=power-bi
