@@ -29,11 +29,8 @@ The goal was to analyze key metrics such as **total sales, item visibility, outl
 ## 📌 Impact & Learnings  
 This project enhanced my skills in **Power BI, data visualization, and business analytics**. The insights derived helped in making **data-driven decisions** to optimize Blinkit's grocery operations.  
 
-## 📷 Dashboard Preview  
-*(Add screenshots of your Power BI dashboard here)*  
 
-## 🚀 How to Use  
-1. Clone the repository:  
-   ```bash
+
+
    git clone /https://github.com/vidhateshamal2000/blinkit-Grocery-Data-Using-Powerbi
    https://app.powerbi.com/groups/me/reports/d7d03753-a73b-4f0f-aebe-b1b0e35c81dc/b000e693509c50c2236b?experience=power-bi
