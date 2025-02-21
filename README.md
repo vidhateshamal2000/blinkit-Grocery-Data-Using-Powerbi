@@ -1,5 +1,5 @@
 # blinkit-Grocery-Data-Using-Powerbi
-![image alt]()
+![image alt](https://github.com/vidhateshamal2000/blinkit-Grocery-Data-Using-Powerbi/blob/main/BLINKIT%20DASHBOARD.png)
 
 # 🚀 Blinkit Sales & Analytics Dashboard - Power BI  
 
